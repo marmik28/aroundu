@@ -15,6 +15,7 @@ interface CarouselProps {
     price: string;
     host: string;
     location: string;
+    detail: string;
   }[];
 }
 
@@ -77,6 +78,7 @@ const Carousel: React.FC<CarouselProps> = ({ title, data }) => {
             price={item.price}
             host={item.host}
             location={item.location}
+            detail={item.detail}
           />
         ))}
       </div>

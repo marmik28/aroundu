@@ -1,112 +1,242 @@
 [
     {
         "id": 1,
-        "image": "/event.jpg",
+        "image": "/eventImg/event.jpg",
         "title": "Outdoor Music Festival",
         "date": "Sat, Nov 25 \u2022 5:00pm",
         "time": "5:00 PM to 10:00 PM",
         "attendees": 123,
         "price": "Free",
         "host": "John Smith",
-        "location": "Central Park, New York"
+        "location": "Montreal",
+        "details": "This event promises to bring together enthusiasts and professionals alike for an unforgettable experience. Attendees will have the chance to network, share ideas, and enjoy an engaging atmosphere filled with creativity and innovation. Whether you're a seasoned participant or a curious newcomer, this event offers something for everyone. From workshops and live demonstrations to interactive activities, there\u2019s no shortage of excitement awaiting."
     },
     {
         "id": 2,
-        "image": "/event.jpg",
+        "image": "/eventImg/event.jpg",
         "title": "Art and Craft Workshop",
         "date": "Sun, Nov 26 \u2022 2:00pm",
         "time": "2:00 PM to 5:00 PM",
         "attendees": 89,
         "price": "$10",
         "host": "Emily Johnson",
-        "location": "Art Center, Los Angeles"
+        "location": "Vancouver",
+        "details": "This event promises to bring together enthusiasts and professionals alike for an unforgettable experience. Attendees will have the chance to network, share ideas, and enjoy an engaging atmosphere filled with creativity and innovation. Whether you're a seasoned participant or a curious newcomer, this event offers something for everyone. From workshops and live demonstrations to interactive activities, there\u2019s no shortage of excitement awaiting."
     },
     {
         "id": 3,
-        "image": "/event.jpg",
+        "image": "/eventImg/event.jpg",
         "title": "Tech Conference 2024",
         "date": "Mon, Dec 1 \u2022 10:00am",
         "time": "10:00 AM to 4:00 PM",
         "attendees": 250,
         "price": "$50",
         "host": "TechCorp Inc.",
-        "location": "Silicon Valley Conference Hall"
+        "location": "Toronto",
+        "details": "This event promises to bring together enthusiasts and professionals alike for an unforgettable experience. Attendees will have the chance to network, share ideas, and enjoy an engaging atmosphere filled with creativity and innovation. Whether you're a seasoned participant or a curious newcomer, this event offers something for everyone. From workshops and live demonstrations to interactive activities, there\u2019s no shortage of excitement awaiting."
     },
     {
         "id": 4,
-        "image": "/event.jpg",
+        "image": "/eventImg/event.jpg",
         "title": "Community Yoga Session",
         "date": "Tue, Dec 5 \u2022 7:00am",
         "time": "7:00 AM to 8:00 AM",
         "attendees": 45,
         "price": "Free",
         "host": "Yoga Community",
-        "location": "Beachfront, Miami"
+        "location": "Ottawa",
+        "details": "This event promises to bring together enthusiasts and professionals alike for an unforgettable experience. Attendees will have the chance to network, share ideas, and enjoy an engaging atmosphere filled with creativity and innovation. Whether you're a seasoned participant or a curious newcomer, this event offers something for everyone. From workshops and live demonstrations to interactive activities, there\u2019s no shortage of excitement awaiting."
     },
     {
         "id": 5,
-        "image": "/event.jpg",
+        "image": "/eventImg/event.jpg",
         "title": "Food Truck Fiesta",
         "date": "Fri, Dec 8 \u2022 6:00pm",
         "time": "6:00 PM to 11:00 PM",
         "attendees": 67,
         "price": "Free",
         "host": "Foodies United",
-        "location": "Downtown, Austin"
+        "location": "Montreal",
+        "details": "This event promises to bring together enthusiasts and professionals alike for an unforgettable experience. Attendees will have the chance to network, share ideas, and enjoy an engaging atmosphere filled with creativity and innovation. Whether you're a seasoned participant or a curious newcomer, this event offers something for everyone. From workshops and live demonstrations to interactive activities, there\u2019s no shortage of excitement awaiting."
     },
     {
         "id": 6,
-        "image": "/event.jpg",
+        "image": "/eventImg/event.jpg",
         "title": "Art and Craft Workshop",
         "date": "Sun, Nov 26 \u2022 2:00pm",
         "time": "2:00 PM to 5:00 PM",
         "attendees": 89,
         "price": "$10",
         "host": "Creative Hands",
-        "location": "Community Hall, Boston"
+        "location": "Vancouver",
+        "details": "This event promises to bring together enthusiasts and professionals alike for an unforgettable experience. Attendees will have the chance to network, share ideas, and enjoy an engaging atmosphere filled with creativity and innovation. Whether you're a seasoned participant or a curious newcomer, this event offers something for everyone. From workshops and live demonstrations to interactive activities, there\u2019s no shortage of excitement awaiting."
     },
     {
         "id": 7,
-        "image": "/event.jpg",
+        "image": "/eventImg/event.jpg",
         "title": "Tech Conference 2024",
         "date": "Mon, Dec 1 \u2022 10:00am",
         "time": "10:00 AM to 4:00 PM",
         "attendees": 250,
         "price": "$50",
         "host": "Innovators United",
-        "location": "Tech Arena, San Francisco"
+        "location": "Toronto",
+        "details": "This event promises to bring together enthusiasts and professionals alike for an unforgettable experience. Attendees will have the chance to network, share ideas, and enjoy an engaging atmosphere filled with creativity and innovation. Whether you're a seasoned participant or a curious newcomer, this event offers something for everyone. From workshops and live demonstrations to interactive activities, there\u2019s no shortage of excitement awaiting."
     },
     {
         "id": 8,
-        "image": "/event.jpg",
+        "image": "/eventImg/event.jpg",
         "title": "Community Yoga Session",
         "date": "Tue, Dec 5 \u2022 7:00am",
         "time": "7:00 AM to 8:00 AM",
         "attendees": 45,
         "price": "Free",
         "host": "Peaceful Mind Yoga",
-        "location": "Wellness Center, Chicago"
+        "location": "Ottawa",
+        "details": "This event promises to bring together enthusiasts and professionals alike for an unforgettable experience. Attendees will have the chance to network, share ideas, and enjoy an engaging atmosphere filled with creativity and innovation. Whether you're a seasoned participant or a curious newcomer, this event offers something for everyone. From workshops and live demonstrations to interactive activities, there\u2019s no shortage of excitement awaiting."
     },
     {
         "id": 9,
-        "image": "/event.jpg",
+        "image": "/eventImg/event.jpg",
         "title": "Food Truck Fiesta",
         "date": "Fri, Dec 8 \u2022 6:00pm",
         "time": "6:00 PM to 11:00 PM",
         "attendees": 67,
         "price": "Free",
         "host": "Street Eats",
-        "location": "Main Square, Seattle"
+        "location": "Montreal",
+        "details": "This event promises to bring together enthusiasts and professionals alike for an unforgettable experience. Attendees will have the chance to network, share ideas, and enjoy an engaging atmosphere filled with creativity and innovation. Whether you're a seasoned participant or a curious newcomer, this event offers something for everyone. From workshops and live demonstrations to interactive activities, there\u2019s no shortage of excitement awaiting."
     },
     {
         "id": 10,
-        "image": "/event.jpg",
+        "image": "/eventImg/event.jpg",
         "title": "Book Club Meetup",
         "date": "Wed, Dec 13 \u2022 4:00pm",
         "time": "4:00 PM to 6:00 PM",
         "attendees": 23,
         "price": "Free",
         "host": "Readers Guild",
-        "location": "City Library, Denver"
+        "location": "Vancouver",
+        "details": "This event promises to bring together enthusiasts and professionals alike for an unforgettable experience. Attendees will have the chance to network, share ideas, and enjoy an engaging atmosphere filled with creativity and innovation. Whether you're a seasoned participant or a curious newcomer, this event offers something for everyone. From workshops and live demonstrations to interactive activities, there\u2019s no shortage of excitement awaiting."
+    },
+    {
+        "id": 11,
+        "image": "/eventImg/event.jpg",
+        "title": "Outdoor Music Festival",
+        "date": "Sat, Nov 25 \u2022 5:00pm",
+        "time": "5:00 PM to 10:00 PM",
+        "attendees": 123,
+        "price": "Free",
+        "host": "John Smith",
+        "location": "Toronto",
+        "details": "This event promises to bring together enthusiasts and professionals alike for an unforgettable experience. Attendees will have the chance to network, share ideas, and enjoy an engaging atmosphere filled with creativity and innovation. Whether you're a seasoned participant or a curious newcomer, this event offers something for everyone. From workshops and live demonstrations to interactive activities, there\u2019s no shortage of excitement awaiting."
+    },
+    {
+        "id": 12,
+        "image": "/eventImg/event.jpg",
+        "title": "Art and Craft Workshop",
+        "date": "Sun, Nov 26 \u2022 2:00pm",
+        "time": "2:00 PM to 5:00 PM",
+        "attendees": 89,
+        "price": "$10",
+        "host": "Emily Johnson",
+        "location": "Ottawa",
+        "details": "This event promises to bring together enthusiasts and professionals alike for an unforgettable experience. Attendees will have the chance to network, share ideas, and enjoy an engaging atmosphere filled with creativity and innovation. Whether you're a seasoned participant or a curious newcomer, this event offers something for everyone. From workshops and live demonstrations to interactive activities, there\u2019s no shortage of excitement awaiting."
+    },
+    {
+        "id": 13,
+        "image": "/eventImg/event.jpg",
+        "title": "Tech Conference 2024",
+        "date": "Mon, Dec 1 \u2022 10:00am",
+        "time": "10:00 AM to 4:00 PM",
+        "attendees": 250,
+        "price": "$50",
+        "host": "TechCorp Inc.",
+        "location": "Montreal",
+        "details": "This event promises to bring together enthusiasts and professionals alike for an unforgettable experience. Attendees will have the chance to network, share ideas, and enjoy an engaging atmosphere filled with creativity and innovation. Whether you're a seasoned participant or a curious newcomer, this event offers something for everyone. From workshops and live demonstrations to interactive activities, there\u2019s no shortage of excitement awaiting."
+    },
+    {
+        "id": 14,
+        "image": "/eventImg/event.jpg",
+        "title": "Community Yoga Session",
+        "date": "Tue, Dec 5 \u2022 7:00am",
+        "time": "7:00 AM to 8:00 AM",
+        "attendees": 45,
+        "price": "Free",
+        "host": "Yoga Community",
+        "location": "Vancouver",
+        "details": "This event promises to bring together enthusiasts and professionals alike for an unforgettable experience. Attendees will have the chance to network, share ideas, and enjoy an engaging atmosphere filled with creativity and innovation. Whether you're a seasoned participant or a curious newcomer, this event offers something for everyone. From workshops and live demonstrations to interactive activities, there\u2019s no shortage of excitement awaiting."
+    },
+    {
+        "id": 15,
+        "image": "/eventImg/event.jpg",
+        "title": "Food Truck Fiesta",
+        "date": "Fri, Dec 8 \u2022 6:00pm",
+        "time": "6:00 PM to 11:00 PM",
+        "attendees": 67,
+        "price": "Free",
+        "host": "Foodies United",
+        "location": "Toronto",
+        "details": "This event promises to bring together enthusiasts and professionals alike for an unforgettable experience. Attendees will have the chance to network, share ideas, and enjoy an engaging atmosphere filled with creativity and innovation. Whether you're a seasoned participant or a curious newcomer, this event offers something for everyone. From workshops and live demonstrations to interactive activities, there\u2019s no shortage of excitement awaiting."
+    },
+    {
+        "id": 16,
+        "image": "/eventImg/event.jpg",
+        "title": "Art and Craft Workshop",
+        "date": "Sun, Nov 26 \u2022 2:00pm",
+        "time": "2:00 PM to 5:00 PM",
+        "attendees": 89,
+        "price": "$10",
+        "host": "Creative Hands",
+        "location": "Ottawa",
+        "details": "This event promises to bring together enthusiasts and professionals alike for an unforgettable experience. Attendees will have the chance to network, share ideas, and enjoy an engaging atmosphere filled with creativity and innovation. Whether you're a seasoned participant or a curious newcomer, this event offers something for everyone. From workshops and live demonstrations to interactive activities, there\u2019s no shortage of excitement awaiting."
+    },
+    {
+        "id": 17,
+        "image": "/eventImg/event.jpg",
+        "title": "Tech Conference 2024",
+        "date": "Mon, Dec 1 \u2022 10:00am",
+        "time": "10:00 AM to 4:00 PM",
+        "attendees": 250,
+        "price": "$50",
+        "host": "Innovators United",
+        "location": "Montreal",
+        "details": "This event promises to bring together enthusiasts and professionals alike for an unforgettable experience. Attendees will have the chance to network, share ideas, and enjoy an engaging atmosphere filled with creativity and innovation. Whether you're a seasoned participant or a curious newcomer, this event offers something for everyone. From workshops and live demonstrations to interactive activities, there\u2019s no shortage of excitement awaiting."
+    },
+    {
+        "id": 18,
+        "image": "/eventImg/event.jpg",
+        "title": "Community Yoga Session",
+        "date": "Tue, Dec 5 \u2022 7:00am",
+        "time": "7:00 AM to 8:00 AM",
+        "attendees": 45,
+        "price": "Free",
+        "host": "Peaceful Mind Yoga",
+        "location": "Vancouver",
+        "details": "This event promises to bring together enthusiasts and professionals alike for an unforgettable experience. Attendees will have the chance to network, share ideas, and enjoy an engaging atmosphere filled with creativity and innovation. Whether you're a seasoned participant or a curious newcomer, this event offers something for everyone. From workshops and live demonstrations to interactive activities, there\u2019s no shortage of excitement awaiting."
+    },
+    {
+        "id": 19,
+        "image": "/eventImg/event.jpg",
+        "title": "Food Truck Fiesta",
+        "date": "Fri, Dec 8 \u2022 6:00pm",
+        "time": "6:00 PM to 11:00 PM",
+        "attendees": 67,
+        "price": "Free",
+        "host": "Street Eats",
+        "location": "Toronto",
+        "details": "This event promises to bring together enthusiasts and professionals alike for an unforgettable experience. Attendees will have the chance to network, share ideas, and enjoy an engaging atmosphere filled with creativity and innovation. Whether you're a seasoned participant or a curious newcomer, this event offers something for everyone. From workshops and live demonstrations to interactive activities, there\u2019s no shortage of excitement awaiting."
+    },
+    {
+        "id": 20,
+        "image": "/eventImg/event.jpg",
+        "title": "Book Club Meetup",
+        "date": "Wed, Dec 13 \u2022 4:00pm",
+        "time": "4:00 PM to 6:00 PM",
+        "attendees": 23,
+        "price": "Free",
+        "host": "Readers Guild",
+        "location": "Ottawa",
+        "details": "This event promises to bring together enthusiasts and professionals alike for an unforgettable experience. Attendees will have the chance to network, share ideas, and enjoy an engaging atmosphere filled with creativity and innovation. Whether you're a seasoned participant or a curious newcomer, this event offers something for everyone. From workshops and live demonstrations to interactive activities, there\u2019s no shortage of excitement awaiting."
     }
 ]

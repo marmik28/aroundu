@@ -65,16 +65,7 @@ const EventDetail = async ({ params }: PageProps) => {
           <div>
             <h2 className="text-2xl font-bold mb-4">Details</h2>
             <p className="text-gray-700 leading-relaxed">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec
-              ultrices, nunc vitae placerat consequat, metus arcu facilisis
-              libero, vel facilisis odio elit sit amet ligula. Vivamus maximus
-              non nisi eu hendrerit. Suspendisse accumsan arcu ac porttitor
-              varius. Sed volutpat metus sit amet sodales faucibus.
-            </p>
-            <p className="text-gray-700 leading-relaxed mt-4">
-              Donec suscipit odio at turpis fermentum pharetra. Mauris
-              fermentum non elit sed eleifend. Nulla ornare dolor id erat
-              posuere ultrices. Sed et consequat sapien.
+              {event.details}
             </p>
           </div>
         </div>

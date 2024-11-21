@@ -17,7 +17,9 @@ const Navbar: React.FC = () => {
     setSelectedLanguage(lang);
 
     // Set Google Translate to the selected language
-    const googleTranslateElement = document.querySelector("select.goog-te-combo") as HTMLSelectElement;
+    const googleTranslateElement = document.querySelector(
+      "select.goog-te-combo"
+    ) as HTMLSelectElement;
     if (googleTranslateElement) {
       switch (lang) {
         case "En":
@@ -102,14 +104,18 @@ const Navbar: React.FC = () => {
           </div>
 
           {/* Log In Button */}
-          <button className="border rounded-3xl px-4 py-1 text-sm font-medium text-gray-800 hover:bg-gray-100 transition">
-            Log In
-          </button>
+          <Link href="/login">
+            <button className="border rounded-3xl px-4 py-1 text-sm font-medium text-gray-800 hover:bg-gray-100 transition">
+              Log In
+            </button>
+          </Link>
 
           {/* Sign Up Button */}
-          <button className="border rounded-3xl px-4 py-1 text-sm font-medium text-white bg-black hover:bg-gray-800 transition">
-            Sign Up
-          </button>
+          <Link href="/signup">
+            <button className="border rounded-3xl px-4 py-1 text-sm font-medium text-white bg-black hover:bg-gray-800 transition">
+              Sign Up
+            </button>
+          </Link>
         </div>
       </nav>
 

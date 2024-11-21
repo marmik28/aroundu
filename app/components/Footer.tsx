@@ -1,3 +1,4 @@
+import Link from "next/link";
 import React from "react";
 
 const Footer = () => {
@@ -11,7 +12,7 @@ const Footer = () => {
         <div className="flex items-center mb-8">
           <h2 className="text-xl font-bold pr-4">Create Your Own Event.</h2>
           <button className="border border-gray-900 text-gray-900 px-4 py-2 rounded-lg hover:bg-gray-900 hover:text-white transition">
-            Create Event
+            <Link href={"/eventdetail"}>Create Event</Link>
           </button>
         </div>
 

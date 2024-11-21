@@ -18,6 +18,7 @@ interface CardProps {
   price: string;
   host: string;
   location: string;
+  detail: string;
 }
 
 const Card: React.FC<CardProps> = ({
