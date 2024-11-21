@@ -12,9 +12,15 @@ import {
 import fakeData from "@/app/data/fake_event_data.json";
 import Link from "next/link";
 
-const EventDetail = async ({ params }: { params: { eventId: string } }) => {
-  // Convert params.eventId to a number
-  const eventId = parseInt(params.eventId, 10);
+interface PageProps {
+  params: Promise<{ eventId: string }>; // Correct type for async params
+}
+
+const EventDetail = async ({ params }: PageProps) => {
+  // Await params object
+  const resolvedParams = await params;
+
+  const eventId = parseInt(resolvedParams.eventId, 10);
 
   // Find the event by id
   const event = fakeData.find((item) => item.id === eventId);
