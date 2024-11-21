@@ -1,4 +1,4 @@
-import type { Config } from "tailwindcss";
+/** @type {import('tailwindcss').Config} */
 
 export default {
   content: [
@@ -8,11 +8,10 @@ export default {
   ],
   theme: {
     extend: {
-      colors: {
-        background: "var(--background)",
-        foreground: "var(--foreground)",
+      fontFamily: {
+        poppins: ['Poppins', 'sans-serif'],
       },
     },
   },
   plugins: [],
-} satisfies Config;
+}

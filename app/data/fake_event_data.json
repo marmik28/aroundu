@@ -1,0 +1,112 @@
+[
+    {
+        "id": 1,
+        "image": "/event.jpg",
+        "title": "Outdoor Music Festival",
+        "date": "Sat, Nov 25 \u2022 5:00pm",
+        "time": "5:00 PM to 10:00 PM",
+        "attendees": 123,
+        "price": "Free",
+        "host": "John Smith",
+        "location": "Central Park, New York"
+    },
+    {
+        "id": 2,
+        "image": "/event.jpg",
+        "title": "Art and Craft Workshop",
+        "date": "Sun, Nov 26 \u2022 2:00pm",
+        "time": "2:00 PM to 5:00 PM",
+        "attendees": 89,
+        "price": "$10",
+        "host": "Emily Johnson",
+        "location": "Art Center, Los Angeles"
+    },
+    {
+        "id": 3,
+        "image": "/event.jpg",
+        "title": "Tech Conference 2024",
+        "date": "Mon, Dec 1 \u2022 10:00am",
+        "time": "10:00 AM to 4:00 PM",
+        "attendees": 250,
+        "price": "$50",
+        "host": "TechCorp Inc.",
+        "location": "Silicon Valley Conference Hall"
+    },
+    {
+        "id": 4,
+        "image": "/event.jpg",
+        "title": "Community Yoga Session",
+        "date": "Tue, Dec 5 \u2022 7:00am",
+        "time": "7:00 AM to 8:00 AM",
+        "attendees": 45,
+        "price": "Free",
+        "host": "Yoga Community",
+        "location": "Beachfront, Miami"
+    },
+    {
+        "id": 5,
+        "image": "/event.jpg",
+        "title": "Food Truck Fiesta",
+        "date": "Fri, Dec 8 \u2022 6:00pm",
+        "time": "6:00 PM to 11:00 PM",
+        "attendees": 67,
+        "price": "Free",
+        "host": "Foodies United",
+        "location": "Downtown, Austin"
+    },
+    {
+        "id": 6,
+        "image": "/event.jpg",
+        "title": "Art and Craft Workshop",
+        "date": "Sun, Nov 26 \u2022 2:00pm",
+        "time": "2:00 PM to 5:00 PM",
+        "attendees": 89,
+        "price": "$10",
+        "host": "Creative Hands",
+        "location": "Community Hall, Boston"
+    },
+    {
+        "id": 7,
+        "image": "/event.jpg",
+        "title": "Tech Conference 2024",
+        "date": "Mon, Dec 1 \u2022 10:00am",
+        "time": "10:00 AM to 4:00 PM",
+        "attendees": 250,
+        "price": "$50",
+        "host": "Innovators United",
+        "location": "Tech Arena, San Francisco"
+    },
+    {
+        "id": 8,
+        "image": "/event.jpg",
+        "title": "Community Yoga Session",
+        "date": "Tue, Dec 5 \u2022 7:00am",
+        "time": "7:00 AM to 8:00 AM",
+        "attendees": 45,
+        "price": "Free",
+        "host": "Peaceful Mind Yoga",
+        "location": "Wellness Center, Chicago"
+    },
+    {
+        "id": 9,
+        "image": "/event.jpg",
+        "title": "Food Truck Fiesta",
+        "date": "Fri, Dec 8 \u2022 6:00pm",
+        "time": "6:00 PM to 11:00 PM",
+        "attendees": 67,
+        "price": "Free",
+        "host": "Street Eats",
+        "location": "Main Square, Seattle"
+    },
+    {
+        "id": 10,
+        "image": "/event.jpg",
+        "title": "Book Club Meetup",
+        "date": "Wed, Dec 13 \u2022 4:00pm",
+        "time": "4:00 PM to 6:00 PM",
+        "attendees": 23,
+        "price": "Free",
+        "host": "Readers Guild",
+        "location": "City Library, Denver"
+    }
+]
