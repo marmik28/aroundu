@@ -29,6 +29,7 @@ const Card: React.FC<CardProps> = ({
   attendees,
   price,
   location,
+  detail,
 }) => {
   return (
     <Link

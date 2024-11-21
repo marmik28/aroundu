@@ -9,7 +9,7 @@
         "price": "Free",
         "host": "John Smith",
         "location": "Montreal",
-        "details": "This event promises to bring together enthusiasts and professionals alike for an unforgettable experience. Attendees will have the chance to network, share ideas, and enjoy an engaging atmosphere filled with creativity and innovation. Whether you're a seasoned participant or a curious newcomer, this event offers something for everyone. From workshops and live demonstrations to interactive activities, there\u2019s no shortage of excitement awaiting."
+        "detail": "This event promises to bring together enthusiasts and professionals alike for an unforgettable experience. Attendees will have the chance to network, share ideas, and enjoy an engaging atmosphere filled with creativity and innovation. Whether you're a seasoned participant or a curious newcomer, this event offers something for everyone. From workshops and live demonstrations to interactive activities, there\u2019s no shortage of excitement awaiting."
     },
     {
         "id": 2,
@@ -21,7 +21,7 @@
         "price": "$10",
         "host": "Emily Johnson",
         "location": "Vancouver",
-        "details": "This event promises to bring together enthusiasts and professionals alike for an unforgettable experience. Attendees will have the chance to network, share ideas, and enjoy an engaging atmosphere filled with creativity and innovation. Whether you're a seasoned participant or a curious newcomer, this event offers something for everyone. From workshops and live demonstrations to interactive activities, there\u2019s no shortage of excitement awaiting."
+        "detail": "This event promises to bring together enthusiasts and professionals alike for an unforgettable experience. Attendees will have the chance to network, share ideas, and enjoy an engaging atmosphere filled with creativity and innovation. Whether you're a seasoned participant or a curious newcomer, this event offers something for everyone. From workshops and live demonstrations to interactive activities, there\u2019s no shortage of excitement awaiting."
     },
     {
         "id": 3,
@@ -33,7 +33,7 @@
         "price": "$50",
         "host": "TechCorp Inc.",
         "location": "Toronto",
-        "details": "This event promises to bring together enthusiasts and professionals alike for an unforgettable experience. Attendees will have the chance to network, share ideas, and enjoy an engaging atmosphere filled with creativity and innovation. Whether you're a seasoned participant or a curious newcomer, this event offers something for everyone. From workshops and live demonstrations to interactive activities, there\u2019s no shortage of excitement awaiting."
+        "detail": "This event promises to bring together enthusiasts and professionals alike for an unforgettable experience. Attendees will have the chance to network, share ideas, and enjoy an engaging atmosphere filled with creativity and innovation. Whether you're a seasoned participant or a curious newcomer, this event offers something for everyone. From workshops and live demonstrations to interactive activities, there\u2019s no shortage of excitement awaiting."
     },
     {
         "id": 4,
@@ -45,7 +45,7 @@
         "price": "Free",
         "host": "Yoga Community",
         "location": "Ottawa",
-        "details": "This event promises to bring together enthusiasts and professionals alike for an unforgettable experience. Attendees will have the chance to network, share ideas, and enjoy an engaging atmosphere filled with creativity and innovation. Whether you're a seasoned participant or a curious newcomer, this event offers something for everyone. From workshops and live demonstrations to interactive activities, there\u2019s no shortage of excitement awaiting."
+        "detail": "This event promises to bring together enthusiasts and professionals alike for an unforgettable experience. Attendees will have the chance to network, share ideas, and enjoy an engaging atmosphere filled with creativity and innovation. Whether you're a seasoned participant or a curious newcomer, this event offers something for everyone. From workshops and live demonstrations to interactive activities, there\u2019s no shortage of excitement awaiting."
     },
     {
         "id": 5,
@@ -57,7 +57,7 @@
         "price": "Free",
         "host": "Foodies United",
         "location": "Montreal",
-        "details": "This event promises to bring together enthusiasts and professionals alike for an unforgettable experience. Attendees will have the chance to network, share ideas, and enjoy an engaging atmosphere filled with creativity and innovation. Whether you're a seasoned participant or a curious newcomer, this event offers something for everyone. From workshops and live demonstrations to interactive activities, there\u2019s no shortage of excitement awaiting."
+        "detail": "This event promises to bring together enthusiasts and professionals alike for an unforgettable experience. Attendees will have the chance to network, share ideas, and enjoy an engaging atmosphere filled with creativity and innovation. Whether you're a seasoned participant or a curious newcomer, this event offers something for everyone. From workshops and live demonstrations to interactive activities, there\u2019s no shortage of excitement awaiting."
     },
     {
         "id": 6,
@@ -69,7 +69,7 @@
         "price": "$10",
         "host": "Creative Hands",
         "location": "Vancouver",
-        "details": "This event promises to bring together enthusiasts and professionals alike for an unforgettable experience. Attendees will have the chance to network, share ideas, and enjoy an engaging atmosphere filled with creativity and innovation. Whether you're a seasoned participant or a curious newcomer, this event offers something for everyone. From workshops and live demonstrations to interactive activities, there\u2019s no shortage of excitement awaiting."
+        "detail": "This event promises to bring together enthusiasts and professionals alike for an unforgettable experience. Attendees will have the chance to network, share ideas, and enjoy an engaging atmosphere filled with creativity and innovation. Whether you're a seasoned participant or a curious newcomer, this event offers something for everyone. From workshops and live demonstrations to interactive activities, there\u2019s no shortage of excitement awaiting."
     },
     {
         "id": 7,
@@ -81,7 +81,7 @@
         "price": "$50",
         "host": "Innovators United",
         "location": "Toronto",
-        "details": "This event promises to bring together enthusiasts and professionals alike for an unforgettable experience. Attendees will have the chance to network, share ideas, and enjoy an engaging atmosphere filled with creativity and innovation. Whether you're a seasoned participant or a curious newcomer, this event offers something for everyone. From workshops and live demonstrations to interactive activities, there\u2019s no shortage of excitement awaiting."
+        "detail": "This event promises to bring together enthusiasts and professionals alike for an unforgettable experience. Attendees will have the chance to network, share ideas, and enjoy an engaging atmosphere filled with creativity and innovation. Whether you're a seasoned participant or a curious newcomer, this event offers something for everyone. From workshops and live demonstrations to interactive activities, there\u2019s no shortage of excitement awaiting."
     },
     {
         "id": 8,
@@ -93,7 +93,7 @@
         "price": "Free",
         "host": "Peaceful Mind Yoga",
         "location": "Ottawa",
-        "details": "This event promises to bring together enthusiasts and professionals alike for an unforgettable experience. Attendees will have the chance to network, share ideas, and enjoy an engaging atmosphere filled with creativity and innovation. Whether you're a seasoned participant or a curious newcomer, this event offers something for everyone. From workshops and live demonstrations to interactive activities, there\u2019s no shortage of excitement awaiting."
+        "detail": "This event promises to bring together enthusiasts and professionals alike for an unforgettable experience. Attendees will have the chance to network, share ideas, and enjoy an engaging atmosphere filled with creativity and innovation. Whether you're a seasoned participant or a curious newcomer, this event offers something for everyone. From workshops and live demonstrations to interactive activities, there\u2019s no shortage of excitement awaiting."
     },
     {
         "id": 9,
@@ -105,7 +105,7 @@
         "price": "Free",
         "host": "Street Eats",
         "location": "Montreal",
-        "details": "This event promises to bring together enthusiasts and professionals alike for an unforgettable experience. Attendees will have the chance to network, share ideas, and enjoy an engaging atmosphere filled with creativity and innovation. Whether you're a seasoned participant or a curious newcomer, this event offers something for everyone. From workshops and live demonstrations to interactive activities, there\u2019s no shortage of excitement awaiting."
+        "detail": "This event promises to bring together enthusiasts and professionals alike for an unforgettable experience. Attendees will have the chance to network, share ideas, and enjoy an engaging atmosphere filled with creativity and innovation. Whether you're a seasoned participant or a curious newcomer, this event offers something for everyone. From workshops and live demonstrations to interactive activities, there\u2019s no shortage of excitement awaiting."
     },
     {
         "id": 10,
@@ -117,7 +117,7 @@
         "price": "Free",
         "host": "Readers Guild",
         "location": "Vancouver",
-        "details": "This event promises to bring together enthusiasts and professionals alike for an unforgettable experience. Attendees will have the chance to network, share ideas, and enjoy an engaging atmosphere filled with creativity and innovation. Whether you're a seasoned participant or a curious newcomer, this event offers something for everyone. From workshops and live demonstrations to interactive activities, there\u2019s no shortage of excitement awaiting."
+        "detail": "This event promises to bring together enthusiasts and professionals alike for an unforgettable experience. Attendees will have the chance to network, share ideas, and enjoy an engaging atmosphere filled with creativity and innovation. Whether you're a seasoned participant or a curious newcomer, this event offers something for everyone. From workshops and live demonstrations to interactive activities, there\u2019s no shortage of excitement awaiting."
     },
     {
         "id": 11,
@@ -129,7 +129,7 @@
         "price": "Free",
         "host": "John Smith",
         "location": "Toronto",
-        "details": "This event promises to bring together enthusiasts and professionals alike for an unforgettable experience. Attendees will have the chance to network, share ideas, and enjoy an engaging atmosphere filled with creativity and innovation. Whether you're a seasoned participant or a curious newcomer, this event offers something for everyone. From workshops and live demonstrations to interactive activities, there\u2019s no shortage of excitement awaiting."
+        "detail": "This event promises to bring together enthusiasts and professionals alike for an unforgettable experience. Attendees will have the chance to network, share ideas, and enjoy an engaging atmosphere filled with creativity and innovation. Whether you're a seasoned participant or a curious newcomer, this event offers something for everyone. From workshops and live demonstrations to interactive activities, there\u2019s no shortage of excitement awaiting."
     },
     {
         "id": 12,
@@ -141,7 +141,7 @@
         "price": "$10",
         "host": "Emily Johnson",
         "location": "Ottawa",
-        "details": "This event promises to bring together enthusiasts and professionals alike for an unforgettable experience. Attendees will have the chance to network, share ideas, and enjoy an engaging atmosphere filled with creativity and innovation. Whether you're a seasoned participant or a curious newcomer, this event offers something for everyone. From workshops and live demonstrations to interactive activities, there\u2019s no shortage of excitement awaiting."
+        "detail": "This event promises to bring together enthusiasts and professionals alike for an unforgettable experience. Attendees will have the chance to network, share ideas, and enjoy an engaging atmosphere filled with creativity and innovation. Whether you're a seasoned participant or a curious newcomer, this event offers something for everyone. From workshops and live demonstrations to interactive activities, there\u2019s no shortage of excitement awaiting."
     },
     {
         "id": 13,
@@ -153,7 +153,7 @@
         "price": "$50",
         "host": "TechCorp Inc.",
         "location": "Montreal",
-        "details": "This event promises to bring together enthusiasts and professionals alike for an unforgettable experience. Attendees will have the chance to network, share ideas, and enjoy an engaging atmosphere filled with creativity and innovation. Whether you're a seasoned participant or a curious newcomer, this event offers something for everyone. From workshops and live demonstrations to interactive activities, there\u2019s no shortage of excitement awaiting."
+        "detail": "This event promises to bring together enthusiasts and professionals alike for an unforgettable experience. Attendees will have the chance to network, share ideas, and enjoy an engaging atmosphere filled with creativity and innovation. Whether you're a seasoned participant or a curious newcomer, this event offers something for everyone. From workshops and live demonstrations to interactive activities, there\u2019s no shortage of excitement awaiting."
     },
     {
         "id": 14,
@@ -165,7 +165,7 @@
         "price": "Free",
         "host": "Yoga Community",
         "location": "Vancouver",
-        "details": "This event promises to bring together enthusiasts and professionals alike for an unforgettable experience. Attendees will have the chance to network, share ideas, and enjoy an engaging atmosphere filled with creativity and innovation. Whether you're a seasoned participant or a curious newcomer, this event offers something for everyone. From workshops and live demonstrations to interactive activities, there\u2019s no shortage of excitement awaiting."
+        "detail": "This event promises to bring together enthusiasts and professionals alike for an unforgettable experience. Attendees will have the chance to network, share ideas, and enjoy an engaging atmosphere filled with creativity and innovation. Whether you're a seasoned participant or a curious newcomer, this event offers something for everyone. From workshops and live demonstrations to interactive activities, there\u2019s no shortage of excitement awaiting."
     },
     {
         "id": 15,
@@ -177,7 +177,7 @@
         "price": "Free",
         "host": "Foodies United",
         "location": "Toronto",
-        "details": "This event promises to bring together enthusiasts and professionals alike for an unforgettable experience. Attendees will have the chance to network, share ideas, and enjoy an engaging atmosphere filled with creativity and innovation. Whether you're a seasoned participant or a curious newcomer, this event offers something for everyone. From workshops and live demonstrations to interactive activities, there\u2019s no shortage of excitement awaiting."
+        "detail": "This event promises to bring together enthusiasts and professionals alike for an unforgettable experience. Attendees will have the chance to network, share ideas, and enjoy an engaging atmosphere filled with creativity and innovation. Whether you're a seasoned participant or a curious newcomer, this event offers something for everyone. From workshops and live demonstrations to interactive activities, there\u2019s no shortage of excitement awaiting."
     },
     {
         "id": 16,
@@ -189,7 +189,7 @@
         "price": "$10",
         "host": "Creative Hands",
         "location": "Ottawa",
-        "details": "This event promises to bring together enthusiasts and professionals alike for an unforgettable experience. Attendees will have the chance to network, share ideas, and enjoy an engaging atmosphere filled with creativity and innovation. Whether you're a seasoned participant or a curious newcomer, this event offers something for everyone. From workshops and live demonstrations to interactive activities, there\u2019s no shortage of excitement awaiting."
+        "detail": "This event promises to bring together enthusiasts and professionals alike for an unforgettable experience. Attendees will have the chance to network, share ideas, and enjoy an engaging atmosphere filled with creativity and innovation. Whether you're a seasoned participant or a curious newcomer, this event offers something for everyone. From workshops and live demonstrations to interactive activities, there\u2019s no shortage of excitement awaiting."
     },
     {
         "id": 17,
@@ -201,7 +201,7 @@
         "price": "$50",
         "host": "Innovators United",
         "location": "Montreal",
-        "details": "This event promises to bring together enthusiasts and professionals alike for an unforgettable experience. Attendees will have the chance to network, share ideas, and enjoy an engaging atmosphere filled with creativity and innovation. Whether you're a seasoned participant or a curious newcomer, this event offers something for everyone. From workshops and live demonstrations to interactive activities, there\u2019s no shortage of excitement awaiting."
+        "detail": "This event promises to bring together enthusiasts and professionals alike for an unforgettable experience. Attendees will have the chance to network, share ideas, and enjoy an engaging atmosphere filled with creativity and innovation. Whether you're a seasoned participant or a curious newcomer, this event offers something for everyone. From workshops and live demonstrations to interactive activities, there\u2019s no shortage of excitement awaiting."
     },
     {
         "id": 18,
@@ -213,7 +213,7 @@
         "price": "Free",
         "host": "Peaceful Mind Yoga",
         "location": "Vancouver",
-        "details": "This event promises to bring together enthusiasts and professionals alike for an unforgettable experience. Attendees will have the chance to network, share ideas, and enjoy an engaging atmosphere filled with creativity and innovation. Whether you're a seasoned participant or a curious newcomer, this event offers something for everyone. From workshops and live demonstrations to interactive activities, there\u2019s no shortage of excitement awaiting."
+        "detail": "This event promises to bring together enthusiasts and professionals alike for an unforgettable experience. Attendees will have the chance to network, share ideas, and enjoy an engaging atmosphere filled with creativity and innovation. Whether you're a seasoned participant or a curious newcomer, this event offers something for everyone. From workshops and live demonstrations to interactive activities, there\u2019s no shortage of excitement awaiting."
     },
     {
         "id": 19,
@@ -225,7 +225,7 @@
         "price": "Free",
         "host": "Street Eats",
         "location": "Toronto",
-        "details": "This event promises to bring together enthusiasts and professionals alike for an unforgettable experience. Attendees will have the chance to network, share ideas, and enjoy an engaging atmosphere filled with creativity and innovation. Whether you're a seasoned participant or a curious newcomer, this event offers something for everyone. From workshops and live demonstrations to interactive activities, there\u2019s no shortage of excitement awaiting."
+        "detail": "This event promises to bring together enthusiasts and professionals alike for an unforgettable experience. Attendees will have the chance to network, share ideas, and enjoy an engaging atmosphere filled with creativity and innovation. Whether you're a seasoned participant or a curious newcomer, this event offers something for everyone. From workshops and live demonstrations to interactive activities, there\u2019s no shortage of excitement awaiting."
     },
     {
         "id": 20,
@@ -237,6 +237,6 @@
         "price": "Free",
         "host": "Readers Guild",
         "location": "Ottawa",
-        "details": "This event promises to bring together enthusiasts and professionals alike for an unforgettable experience. Attendees will have the chance to network, share ideas, and enjoy an engaging atmosphere filled with creativity and innovation. Whether you're a seasoned participant or a curious newcomer, this event offers something for everyone. From workshops and live demonstrations to interactive activities, there\u2019s no shortage of excitement awaiting."
+        "detail": "This event promises to bring together enthusiasts and professionals alike for an unforgettable experience. Attendees will have the chance to network, share ideas, and enjoy an engaging atmosphere filled with creativity and innovation. Whether you're a seasoned participant or a curious newcomer, this event offers something for everyone. From workshops and live demonstrations to interactive activities, there\u2019s no shortage of excitement awaiting."
     }
 ]

@@ -65,7 +65,7 @@ const EventDetail = async ({ params }: PageProps) => {
           <div>
             <h2 className="text-2xl font-bold mb-4">Details</h2>
             <p className="text-gray-700 leading-relaxed">
-              {event.details}
+              {event.detail}
             </p>
           </div>
         </div>
