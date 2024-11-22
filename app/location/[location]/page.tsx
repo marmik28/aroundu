@@ -39,7 +39,7 @@ const LocationPage = ({ params }: PageProps) => {
           <Link href={`/location/${location}`}>{location}</Link>
         </p>
 
-        <h1 className="text-2xl font-bold mb-4">Events Near {location}</h1>
+        <h1 className="text-3xl font-bold mb-4">Events Near {location}</h1>
 
         <div className="flex flex-col md:flex-row gap-6">
           {/* Event Tiles */}
