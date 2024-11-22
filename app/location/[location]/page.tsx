@@ -1,5 +1,4 @@
 import React from "react";
-import EventTile from "@/app/components/EventTile";
 import fakeData from "@/app/data/fake_event_data.json";
 import Navbar from "@/app/components/Navbar";
 import Link from "next/link";
@@ -15,11 +14,12 @@ import {
 } from "react-icons/fa";
 
 interface PageProps {
-  params: { location: string };
+  params: Promise<{ location: string }>;
 }
 
-const LocationPage = ({ params }: PageProps) => {
-  const { location } = params;
+// Make the `LocationPage` function asynchronous to handle dynamic route params
+const LocationPage = async ({ params }: PageProps) => {
+  const { location } = await params;
 
   // Filter events by location
   const filteredEvents = fakeData.filter(
@@ -55,41 +55,41 @@ const LocationPage = ({ params }: PageProps) => {
                     alt={event.title}
                     className="w-1/3 object-cover"
                   />
-                    <div className="p-4 flex flex-col justify-between flex-1">
-                      <h3 className="font-bold text-2xl text-gray-900 mb-2">
-                        {event.title}
-                      </h3>
+                  <div className="p-4 flex flex-col justify-between flex-1">
+                    <h3 className="font-bold text-2xl text-gray-900 mb-2">
+                      {event.title}
+                    </h3>
 
-                      <div className="text-sm text-gray-600 flex items-center gap-2 mb-[1px]">
-                        <FaCalendarAlt />
-                        <span>{event.date}</span>
-                      </div>
-                      <div className="text-sm text-gray-600 flex items-center gap-2 mb-[1px]">
-                        <FaClock />
-                        <span>{event.time}</span>
-                      </div>
-                      <div className="text-sm text-gray-600 flex items-center gap-2 mb-[1px]">
-                        <FaUsers />
-                        <span>{event.attendees} Attending</span>
-                      </div>
-                      <div className="text-sm text-gray-600 flex items-center gap-2 mb-[1px]">
-                        <FaUser />
-                        <span>Hosted By: {event.host}</span>
-                      </div>
-                      <div className="text-sm text-gray-600 flex items-center gap-2 mb-[1px]">
-                        <FaTicketAlt />
-                        <span>{event.price}</span>
-                      </div>
-                      <div className="text-sm text-gray-600 flex items-center gap-2 mb-[1px]">
-                        <FaMapMarkerAlt />
-                        <span>{event.location}</span>
-                      </div>
+                    <div className="text-sm text-gray-600 flex items-center gap-2 mb-[1px]">
+                      <FaCalendarAlt />
+                      <span>{event.date}</span>
                     </div>
-                      <div className="content-end mr-8">
-                      <button className="bg-orange-500 text-white rounded-full py-2 px-8 mb-4 hover:bg-orange-600">
-                        Attend
-                      </button>
-                      </div>
+                    <div className="text-sm text-gray-600 flex items-center gap-2 mb-[1px]">
+                      <FaClock />
+                      <span>{event.time}</span>
+                    </div>
+                    <div className="text-sm text-gray-600 flex items-center gap-2 mb-[1px]">
+                      <FaUsers />
+                      <span>{event.attendees} Attending</span>
+                    </div>
+                    <div className="text-sm text-gray-600 flex items-center gap-2 mb-[1px]">
+                      <FaUser />
+                      <span>Hosted By: {event.host}</span>
+                    </div>
+                    <div className="text-sm text-gray-600 flex items-center gap-2 mb-[1px]">
+                      <FaTicketAlt />
+                      <span>{event.price}</span>
+                    </div>
+                    <div className="text-sm text-gray-600 flex items-center gap-2 mb-[1px]">
+                      <FaMapMarkerAlt />
+                      <span>{event.location}</span>
+                    </div>
+                  </div>
+                  <div className="content-end mr-8">
+                    <button className="bg-orange-500 text-white rounded-full py-2 px-8 mb-4 hover:bg-orange-600">
+                      Attend
+                    </button>
+                  </div>
                 </div>
               ))
             ) : (
