@@ -12,11 +12,11 @@ import {
 import Link from "next/link";
 
 interface PageProps {
-  params: { eventId: string }; // Correct type for params
+  params: Promise<{ eventId: string }>;
 }
 
 const EventDetail = async ({ params }: PageProps) => {
-  const eventId = params.eventId;
+  const { eventId } = await params;
 
   // Fetch the event data from the API
   const res = await fetch(`http://localhost:5000/events/${eventId}`);

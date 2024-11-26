@@ -13,11 +13,11 @@ import {
 } from "react-icons/fa";
 
 interface PageProps {
-  params: { location: string };
+  params: Promise<{ location: string }>;
 }
 
 const LocationPage = async ({ params }: PageProps) => {
-  const { location } = params;
+  const { location } = await params;
 
   // Fetch events from the backend based on location
   const res = await fetch(`http://localhost:5000/events/location/${location}`);
