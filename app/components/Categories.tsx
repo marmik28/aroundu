@@ -50,13 +50,13 @@ const categories: Category[] = [
 
 const Categories: React.FC = () => {
   return (
-    <div className="mb-12 max-w-screen-xl w-full my-0 mx-auto">
+    <div className="mb-6 max-w-screen-xl w-full my-0 mx-auto">
       <div className="flex justify-between items-center mb-4">
         <h2 className="text-2xl font-bold text-gray-900">
           Explore Top Categories
         </h2>
       </div>
-      <div className="flex gap-4 overflow-x-auto scrollbar-hide">
+      <div className="flex justify-center gap-4 py-4 overflow-x-auto scrollbar-hide">
       {categories.map((category, index) => (
           <Link
             key={index}
