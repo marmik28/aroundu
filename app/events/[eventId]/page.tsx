@@ -9,23 +9,20 @@ import {
   FaTicketAlt,
   FaUser,
 } from "react-icons/fa";
-import fakeData from "@/app/data/fake_event_data.json";
 import Link from "next/link";
 
 interface PageProps {
-  params: Promise<{ eventId: string }>; // Correct type for async params
+  params: { eventId: string }; // Correct type for params
 }
 
 const EventDetail = async ({ params }: PageProps) => {
-  // Await params object
-  const resolvedParams = await params;
+  const eventId = params.eventId;
 
-  const eventId = parseInt(resolvedParams.eventId, 10);
+  // Fetch the event data from the API
+  const res = await fetch(`http://localhost:5000/events/${eventId}`);
+  const event = await res.json();
 
-  // Find the event by id
-  const event = fakeData.find((item) => item.id === eventId);
-
-  if (!event) {
+  if (!res.ok || !event) {
     return (
       <div className="text-center py-16">
         <h1 className="text-3xl font-bold">Event Not Found</h1>

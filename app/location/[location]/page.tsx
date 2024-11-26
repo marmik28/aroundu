@@ -1,5 +1,4 @@
 import React from "react";
-import fakeData from "@/app/data/fake_event_data.json";
 import Navbar from "@/app/components/Navbar";
 import Link from "next/link";
 import SearchBar from "@/app/components/SearchBar";
@@ -14,17 +13,24 @@ import {
 } from "react-icons/fa";
 
 interface PageProps {
-  params: Promise<{ location: string }>;
+  params: { location: string };
 }
 
-// Make the `LocationPage` function asynchronous to handle dynamic route params
 const LocationPage = async ({ params }: PageProps) => {
-  const { location } = await params;
+  const { location } = params;
 
-  // Filter events by location
-  const filteredEvents = fakeData.filter(
-    (event) => event.location.toLowerCase() === location.toLowerCase()
-  );
+  // Fetch events from the backend based on location
+  const res = await fetch(`http://localhost:5000/events/location/${location}`);
+  const filteredEvents = await res.json();
+
+  if (!res.ok) {
+    return (
+      <div className="text-center py-16">
+        <h1 className="text-3xl font-bold">Error</h1>
+        <p className="text-gray-600 mt-4">Failed to load events for {location}.</p>
+      </div>
+    );
+  }
 
   return (
     <>
@@ -45,7 +51,7 @@ const LocationPage = async ({ params }: PageProps) => {
           {/* Event Tiles */}
           <div className="flex-1 grid grid-cols-1 gap-6 max-w-[800px]">
             {filteredEvents.length > 0 ? (
-              filteredEvents.map((event) => (
+              filteredEvents.map((event: any) => (
                 <div
                   key={event.id}
                   className="flex bg-[#F5F5F5] rounded-3xl overflow-hidden"
