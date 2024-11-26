@@ -11,10 +11,11 @@ import axios from 'axios';
 
 export default function Home() {
   const [events, setEvents] = useState([]);
+  const backend_url = process.env.NEXT_PUBLIC_BACKEND
   useEffect(() => {
     const fetchEvents = async () => {
       try {
-        const response = await axios.get('http://localhost:5000/events');
+        const response = await axios.get(`${backend_url}`);
         setEvents(response.data);
       } catch (error) {
         console.error('Error fetching events:', error);

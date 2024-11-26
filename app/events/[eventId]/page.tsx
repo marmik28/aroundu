@@ -19,7 +19,8 @@ const EventDetail = async ({ params }: PageProps) => {
   const { eventId } = await params;
 
   // Fetch the event data from the API
-  const res = await fetch(`http://localhost:5000/events/${eventId}`);
+  const backend_url = process.env.NEXT_PUBLIC_BACKEND
+  const res = await fetch(`${backend_url}${eventId}`);
   const event = await res.json();
 
   if (!res.ok || !event) {

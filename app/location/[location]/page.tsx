@@ -20,7 +20,8 @@ const LocationPage = async ({ params }: PageProps) => {
   const { location } = await params;
 
   // Fetch events from the backend based on location
-  const res = await fetch(`http://localhost:5000/events/location/${location}`);
+  const backend_url = process.env.NEXT_PUBLIC_BACKEND
+  const res = await fetch(`${backend_url}location/${location}`);
   const filteredEvents = await res.json();
 
   if (!res.ok) {
