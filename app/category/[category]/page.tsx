@@ -11,7 +11,6 @@ import {
   FaClock,
   FaUser,
 } from "react-icons/fa";
-import Categories from "@/app/components/Categories";
 
 interface PageProps {
   params: Promise<{ location: string }>;
@@ -42,10 +41,10 @@ const LocationPage = async ({ params }: PageProps) => {
         <SearchBar />
 
         {/* Breadcrumb */}
-        {/* <p className="text-gray-500 text-sm mt-4 mb-4">
+        <p className="text-gray-500 text-sm mt-4 mb-4">
           <Link href={"/"}>Home</Link> &gt;{" "}
-          <Link href={`/`}>{}</Link>
-        </p> */}
+          <Link href={"/"}>Category</Link>
+        </p>
 
         <h1 className="text-3xl font-bold mb-4">Events Near {location}</h1>
 
